@@ -14,7 +14,7 @@
 - Will Ricardo dos Santos Machado
 # Execução
 
--Devido ao GIF ter ficado muito grande, na aba de presentation -> Visaõ.gif, há um link para visualização do mesmo
+-Devido ao GIF ter ficado muito grande, na aba de presentation -> Visao.gif, há um link para visualização do mesmo
 
 # Código
 
