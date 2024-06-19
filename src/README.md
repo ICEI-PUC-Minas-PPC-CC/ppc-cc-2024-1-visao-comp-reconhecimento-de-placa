@@ -18,7 +18,7 @@ Siga as etapas abaixo para instalar e configurar o código:
 1. Clone o repositório do código para o seu sistema:
 Se você não tiver o Git instalado, pode fazer o download do repositório como um arquivo ZIP e descompactá-lo em uma pasta de sua escolha.
 
-`git clone https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-visao-comp-reconhecimento-de-placa.git`
+`git clone https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-visao-comp-detectar-placa-de-veiculo.git`
 
 2. Acesse o diretório do código:
 
@@ -43,6 +43,6 @@ Após concluir a instalação, você pode executar o código da seguinte maneira
 
 2. Execute o código:
 
-`python`
+`python EncontrarPlaca.py`
 
 Certifique-se de seguir as instruções adicionais fornecidas na documentação do código para realizar tarefas específicas ou configurações adicionais.
