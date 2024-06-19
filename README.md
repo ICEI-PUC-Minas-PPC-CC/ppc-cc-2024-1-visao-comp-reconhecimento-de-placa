@@ -15,7 +15,7 @@
 # Execução
 
 
-![alt-text]([https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-visao-comp-detectar-placa-de-veiculo/blob/main/presentation/VisaoComp.gif](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-visao-comp-reconhecimento-de-placa/edit/main/presentation/Visao.gif))
+![alt-text](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-visao-comp-reconhecimento-de-placa/edit/main/presentation/Visao.gif)
 
 # Código
 
