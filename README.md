@@ -1,7 +1,7 @@
 # DETECÇÃO DE PLACA (VEÍCULOS)
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
+`Disciplina: Visão Computacional e Realidade Misturada`
 `2024 - Semestre 1`
 
 ## Integrantes
@@ -12,6 +12,7 @@
 ## Professor
 
 - Will Ricardo dos Santos Machado
+
 # Execução
 
 -Devido ao GIF ter ficado muito grande, na aba de presentation -> Visao.gif, há um link para visualização do mesmo
