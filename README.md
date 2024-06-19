@@ -14,8 +14,7 @@
 - Will Ricardo dos Santos Machado
 # Execução
 
-
-![alt-text](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-visao-comp-reconhecimento-de-placa/edit/main/presentation/Visao.gif)
+-Devido ao GIF ter ficado muito grande, na aba de presentation -> Visaõ.gif, há um link para visualização do mesmo
 
 # Código
 
