@@ -1,3 +1,9 @@
+# Pré requisitos para rodar o programa:
+# -Python 3.9
+# -pip install opencv-python
+# -pip install pytesseract
+# Instalar o Tesseract OCR e adicioná-lo nas variáveis de ambiente: https://github.com/UB-Mannheim/tesseract/wiki
+
 import pytesseract
 import cv2
 import os
