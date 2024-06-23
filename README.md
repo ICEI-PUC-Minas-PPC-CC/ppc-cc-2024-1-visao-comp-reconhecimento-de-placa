@@ -16,6 +16,7 @@
 # Código
 
 <li><a href="src/README.md"> Código Fonte</a></li>
+Será redirecionado para a instalação dos pré-requisitos, no repositório possuem 3 versões, peço que use a com nome: EncontrarPlaca_VersaoCorrigida.py
 
 # Apresentação
 
