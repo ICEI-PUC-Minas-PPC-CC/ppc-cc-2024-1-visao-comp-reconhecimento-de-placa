@@ -13,10 +13,6 @@
 
 - Will Ricardo dos Santos Machado
 
-# Execução
-
--Devido ao GIF ter ficado muito grande, na aba de presentation -> Visao.gif, há um link para visualização do mesmo
-
 # Código
 
 <li><a href="src/README.md"> Código Fonte</a></li>
